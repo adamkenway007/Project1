@@ -1,7 +1,7 @@
 ﻿// Menggunakan tipe decimal untuk menghitung diskon
 using System;
 
-class UseDecimal
+class Diskon2
 {
     static void Main() {
         decimal harga;
@@ -15,7 +15,8 @@ class UseDecimal
         diskon = 0.25m; // persen diskon adalah 15%
 
         harga_diskon = harga - (harga * diskon);
-        Console.WriteLine("Harga Gold Watch Rp." + harga.ToString("#,#.00#"));
+        Console.WriteLine("Harga Jam Emas Rp." + harga.ToString("#,#.00#"));
+        Console.WriteLine("Diskon Barang 15%");
         Console.WriteLine("Harga Setelah Diskon: Rp." + harga_diskon.ToString("#,#.00#"));
     }
 }

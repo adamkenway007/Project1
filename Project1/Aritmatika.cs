@@ -1,7 +1,7 @@
 ﻿// Mengunakan byte.
 using System;
 
-class Mengunakan_bytes {
+class Aritmatika {
     static void Main() {
         short x;
         int jum;

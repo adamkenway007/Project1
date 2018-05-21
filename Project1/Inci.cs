@@ -1,7 +1,7 @@
 ﻿// Menghitung jarak dari Bumi ke Matahari dalam inci
 using System;
 
-class inci
+class Inci
 {
     static void Main() {
         long inci;

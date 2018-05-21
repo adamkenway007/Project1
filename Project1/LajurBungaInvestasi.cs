@@ -4,7 +4,7 @@ nilai masa depan dari suatu investasi.
 */
 using System;
 
-class NilaiMasaDepan {
+class LajurBungaInvestasi {
     static void Main() {
         decimal investasi;
         decimal laju_bunga;

@@ -1,0 +1,19 @@
+Bab 1. Program Dasar C#
+
+    Menampilkan Output Text Sederhana...................................Contoh.cs
+    Menampilkan Variabel Nilai..........................................Contoh2.cs
+    Menampilkan Tipe Data int dan titik mengambang......................Contoh3.cs
+    Menghitung  Luas lingkaran (statis).................................Lingkaran.cs
+    Menampilkan Contoh Statemen if......................................Demoif.cs
+    Menampilkan Loop for / Perulangan...................................Demofor.cs
+    Menampilkan Penggunaan Blok Kode....................................Demoblok.cs
+    Menampilkan Penjumlahan Dan Perkalian...............................Jumlahkali.cs
+    Menampilkan Identifier atau Pengenal................................Testid.cs
+ 
+Bab 1.5 Program Dasar C# (Versi Lanjutan)
+    
+   Menghitung Diskon Cart Belanja (Dasar)...............................Diskon.cs
+   Menghitung Jarak Benda yang ditentukan...............................Inci.cs
+   Menghitung Nilai Aritmatika..........................................Aritmatika.cs
+   Menghitung Nilai Trigonometri........................................Trigonometri.cs
+   Menghitung Lajur Bunga Investasi.....................................LajurBungaInvestasi.cs

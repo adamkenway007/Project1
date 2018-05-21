@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Contoh</StartupObject>
+    <StartupObject>Diskon2</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>75CB11C05874B0213F81C02B9B40A4126F913D4B</ManifestCertificateThumbprint>
@@ -67,13 +67,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodeFile1.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="nilaimasadepan.cs" />
-    <Compile Include="usedecimal.cs" />
+    <Compile Include="Diskon.cs" />
+    <Compile Include="NamaDanUmur.cs" />
+    <Compile Include="LajurBungaInvestasi.cs" />
+    <Compile Include="Diskon2.cs" />
     <Compile Include="Trigonometri.cs" />
-    <Compile Include="Findradius.cs" />
-    <Compile Include="Mengunakan_bytes.cs" />
+    <Compile Include="Radius.cs" />
+    <Compile Include="Aritmatika.cs" />
     <Compile Include="Inci.cs" />
     <Compile Include="Testid.cs" />
     <Compile Include="Jumlahkali.cs" />
