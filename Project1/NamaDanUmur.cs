@@ -1,11 +1,11 @@
 ﻿using System;
 
-class Person
+class NamaDanUmur
 {
     private string m_sName;
     private string m_sAge;
 
-    public Person(string[] args)
+    public NamaDanUmur (string[] args)
     {
         m_sName = args[0];
         m_sAge = args[1];

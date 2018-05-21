@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace ConsoleApplication5
+namespace DiskonBelanja
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿// Menemukan radius dari suatu lingkaran.
 
 using System;
-class FindRadius
+class Radius
 {
     static void Main()
     {
