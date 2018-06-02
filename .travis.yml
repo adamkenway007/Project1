@@ -7,3 +7,14 @@ deploy:
   keep-history: true
   on:
     branch: master
+install:
+  - nuget restore Project1.sln
+matrix:
+  include:
+    - dotnet: 1.1.5
+      mono: none
+      env: DOTNETCORE=1  # optional, can be used to take different code paths in your script
+    - mono: latest
+script:
+  - dotnet restore
+  - xbuild /p:Configuration=Release Project1.sln

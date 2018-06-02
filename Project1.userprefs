@@ -5,15 +5,6 @@
       <File FileName="Project1\Contoh3.cs" Line="1" Column="1" />
       <File FileName="Project1\Diskon.cs" Line="3" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Project1" expanded="True" selected="True">
-            <Node name="Project1" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
