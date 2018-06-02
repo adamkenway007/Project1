@@ -1,0 +1,6 @@
+C:\Users\Adam\Documents\Visual Studio 2012\Projects\Project1\Project1\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttribute.cs
+C:\Users\Adam\Documents\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\Adam\Documents\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\Adam\Documents\Visual Studio 2012\Projects\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\Adam\Documents\Visual Studio 2012\Projects\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\Adam\Documents\Visual Studio 2012\Projects\Project1\Project1\obj\Debug\Project1.pdb
